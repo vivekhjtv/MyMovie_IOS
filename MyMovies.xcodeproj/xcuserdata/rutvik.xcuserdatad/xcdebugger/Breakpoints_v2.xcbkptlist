@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "7B86082C-E01F-47A7-9238-B9F5BF6CB3D3"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "DD35F08D-A9F2-4816-8C4B-E99ABB6CF711"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MyMovies/ViewModel/APIServices.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "31"
+            endingLineNumber = "31"
+            landmarkName = "getMovieList(page:completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "DD35F08D-A9F2-4816-8C4B-E99ABB6CF711 - 8f3ce3dca0dff8b0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in MyMovies.APIServices.getMovieList(page: Swift.Int, completion: (MyMovies.MovieListModel) -&gt; ()) -&gt; ()"
+                  moduleName = "MyMovies"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/rutvik/Desktop/MyMovies/MyMovies/ViewModel/APIServices.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "29"
+                  endingLineNumber = "29"
+                  offsetFromSymbolStart = "260">
+               </Location>
+               <Location
+                  uuid = "DD35F08D-A9F2-4816-8C4B-E99ABB6CF711 - 8f3ce3dca0dff891"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in MyMovies.APIServices.getMovieList(page: Swift.Int, completion: (MyMovies.MovieListModel) -&gt; ()) -&gt; ()"
+                  moduleName = "MyMovies"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/rutvik/Desktop/MyMovies/MyMovies/ViewModel/APIServices.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "30"
+                  endingLineNumber = "30"
+                  offsetFromSymbolStart = "260">
+               </Location>
+               <Location
+                  uuid = "DD35F08D-A9F2-4816-8C4B-E99ABB6CF711 - 8f3ce3dca0dff872"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in MyMovies.APIServices.getMovieList(page: Swift.Int, completion: (MyMovies.MovieListModel) -&gt; ()) -&gt; ()"
+                  moduleName = "MyMovies"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/rutvik/Desktop/MyMovies/MyMovies/ViewModel/APIServices.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "31"
+                  endingLineNumber = "31"
+                  offsetFromSymbolStart = "324">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "41A525AD-6B06-4F7E-993B-665640AB2F1E"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MyMovies/View/ViewControllers/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "61"
+            endingLineNumber = "61"
+            landmarkName = "fetchMore()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "41A525AD-6B06-4F7E-993B-665640AB2F1E - 412042310bd8a9a5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (MyMovies.MovieListModel) -&gt; () in MyMovies.ViewController.fetchMore() -&gt; ()"
+                  moduleName = "MyMovies"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/rutvik/Desktop/MyMovies/MyMovies/View/ViewControllers/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "40"
+                  endingLineNumber = "40"
+                  offsetFromSymbolStart = "336">
+               </Location>
+               <Location
+                  uuid = "41A525AD-6B06-4F7E-993B-665640AB2F1E - 412042310bd8a470"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (MyMovies.MovieListModel) -&gt; () in MyMovies.ViewController.fetchMore() -&gt; ()"
+                  moduleName = "MyMovies"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/rutvik/Desktop/MyMovies/MyMovies/View/ViewControllers/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "61"
+                  endingLineNumber = "61"
+                  offsetFromSymbolStart = "336">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1F21B464-4D63-448A-A231-FF4EE0EBB20C"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MyMovies/ViewModel/CoreDataServices.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "65"
+            endingLineNumber = "65"
+            landmarkName = "save(data:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "1F21B464-4D63-448A-A231-FF4EE0EBB20C - 3dd1f1e7154a2b2d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MyMovies.coreDataServices.save(data: Swift.Array&lt;MyMovies.Result&gt;) -&gt; ()"
+                  moduleName = "MyMovies"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/rutvik/Desktop/MyMovies/MyMovies/ViewModel/CoreDataServices.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "65"
+                  endingLineNumber = "65"
+                  offsetFromSymbolStart = "976">
+               </Location>
+               <Location
+                  uuid = "1F21B464-4D63-448A-A231-FF4EE0EBB20C - 3dd1f1e7154a2b2d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MyMovies.coreDataServices.save(data: Swift.Array&lt;MyMovies.Result&gt;) -&gt; ()"
+                  moduleName = "MyMovies"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/rutvik/Desktop/MyMovies/MyMovies/ViewModel/CoreDataServices.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "65"
+                  endingLineNumber = "65"
+                  offsetFromSymbolStart = "984">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E2E7AD9B-CE7E-49EF-B9CC-2A6B2239F997"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MyMovies/View/ViewControllers/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "93"
+            endingLineNumber = "93"
+            landmarkName = "collectionView(_:didSelectItemAt:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "E2E7AD9B-CE7E-49EF-B9CC-2A6B2239F997 - 73d7e2442d5505e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MyMovies.ViewController.collectionView(_: __C.UICollectionView, didSelectItemAt: Foundation.IndexPath) -&gt; ()"
+                  moduleName = "MyMovies"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/rutvik/Desktop/MyMovies/MyMovies/View/ViewControllers/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "93"
+                  endingLineNumber = "93"
+                  offsetFromSymbolStart = "336">
+               </Location>
+               <Location
+                  uuid = "E2E7AD9B-CE7E-49EF-B9CC-2A6B2239F997 - 73d7e2442d5505e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MyMovies.ViewController.collectionView(_: __C.UICollectionView, didSelectItemAt: Foundation.IndexPath) -&gt; ()"
+                  moduleName = "MyMovies"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/rutvik/Desktop/MyMovies/MyMovies/View/ViewControllers/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "93"
+                  endingLineNumber = "93"
+                  offsetFromSymbolStart = "424">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "CBFBF9F2-609E-40AC-9EBA-3243A270A06B"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MyMovies/ViewModel/CoreDataServices.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "128"
+            endingLineNumber = "128"
+            landmarkName = "getDetail(id:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
